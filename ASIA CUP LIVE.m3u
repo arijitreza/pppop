@@ -4,7 +4,7 @@ http://stream.serverbd247.com/hls/sky-live.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1,Star Sports 1 Hindi
-https://customer-tq8zdxs23r9m8upi.cloudflarestream.com/eb9d35417e18c3ef0a02a6ec9ae79ea2/manifest/stream_t1_r4.m3u8
+https://customer-tq8zdxs23r9m8upi.cloudflarestream.com/eb9d35417e18c3ef0a02a6ec9ae79ea2/manifest/video.m3u8
 #EXTINF:-1,PTV HD
 http://221.120.204.4:80/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PTV HD
