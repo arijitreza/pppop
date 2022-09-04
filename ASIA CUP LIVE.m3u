@@ -4,7 +4,7 @@ http://streams.sarkernet.com/hls/stream3.m3u8
 #EXTINF:-1,Star Sports 1 Hindi
 http://103.162.136.235:4500/play/a017/index.m3u8
 #EXTINF:-1,PTV HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49241
+http://103.174.5.44:8000/play/a02d/index.m3u8
 #EXTINF:-1,GAZI TV
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1,BTV
