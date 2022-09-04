@@ -1,16 +1,20 @@
 #EXTM3U
 #EXTINF:-1,Star Sports 1 HD
-http://tslower.rfdte99.com:2082/live/Yazid11_886588/UsyHmr4Y/87257.ts
+http://stream.serverbd247.com/hls/sky-live.m3u8
+#EXTINF:-1,Star Sports 1 HD
+http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1,Star Sports 1 Hindi
-http://103.162.136.235:4500/play/a017/index.m3u8
+https://customer-tq8zdxs23r9m8upi.cloudflarestream.com/eb9d35417e18c3ef0a02a6ec9ae79ea2/manifest/stream_t1_r4.m3u8
 #EXTINF:-1,PTV HD
-http://103.174.5.44:8000/play/a02d/index.m3u8
+http://221.120.204.4:80/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PTV HD
-http://starshare.live:8080/live/usman007/usman007/89.ts
+http://194.233.77.24:5866/hls/ptvsports.m3u8
 #EXTINF:-1,GAZI TV
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+#EXTINF:-1,GAZI TV
+http://bdixtv.serverbd247.com:80/hls/live-01.m3u8
 #EXTINF:-1,BTV
-http://streams.sarkernet.com/hls/stream1.m3u8
+https://streamcdneu.loco.gg:443/LAKQ67YNHM_8c9c14d6-75f4-4060-bd5c-0a3f8cc005ad/LAKQ67YNHM_8c9c14d6-75f4-4060-bd5c-0a3f8cc005ad_mid/manifest.m3u8
 #EXTINF:-1,Nagarik TV
 http://bdixtv.serverbd247.com:80/hls/live-01.m3u8
 #EXTINF:-1,Total Sports
