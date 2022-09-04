@@ -5,7 +5,13 @@ http://103.174.5.43:8000/play/a07j/index.m3u8
 http://103.162.136.235:4500/play/a017/index.m3u8
 #EXTINF:-1,PTV HD
 http://tslower.rfdte99.com:2082/live/Yazid11_886588/UsyHmr4Y/49241.ts
+#EXTINF:-1,SUPER Cricket
+http://humiptv.live:8080/live/13526319495_980/B4RtBbisKa/516.ts
 #EXTINF:-1,GAZI TV
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+http://103.99.249.138:81/play/a012
 #EXTINF:-1,BTV
-http://103.106.2.152:13456/btv.m3u8
+http://103.135.132.2/hls/stream1.m3u8
+#EXTINF:-1,Nagarik TV
+http://bdixtv.serverbd247.com:80/hls/live-01.m3u8
+#EXTINF:-1,Total Sports
+http://103.174.5.44:8000/play/a012/index.m3u8
